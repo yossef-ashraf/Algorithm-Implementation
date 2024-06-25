@@ -23,7 +23,7 @@ This project aims to provide solutions to two common problems in computer scienc
 
 ## Contributors
 
-- **Youssef Ashraf ** - Main developer
+- **Yossef Ashraf ** - Main developer 
 
 ## Notes
 
